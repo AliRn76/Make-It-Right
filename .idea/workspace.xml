@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87655239-826f-4897-85e5-ae8f871a28f8" name="Default Changelist" comment="" />
+    <list default="true" id="87655239-826f-4897-85e5-ae8f871a28f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dallas Buyers Club(nifgi).srt" beforeDir="false" afterPath="$PROJECT_DIR$/Dallas Buyers Club(nifgi).srt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Make It Right.py" beforeDir="false" afterPath="$PROJECT_DIR$/Make It Right.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RkG9zwicHiRWix05fRydIAYPIR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -94,15 +102,30 @@
       <option name="presentableId" value="Default" />
       <updated>1570203533061</updated>
       <workItem from="1570203536944" duration="374000" />
-      <workItem from="1570203916028" duration="1224000" />
+      <workItem from="1570203916028" duration="1594000" />
+      <workItem from="1570233199721" duration="3370000" />
+      <workItem from="1570383912611" duration="2685000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MakeItRight$Make_It_Right__1_.coverage" NAME="Make It Right (1) Coverage Results" MODIFIED="1570204207729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Str Edition" />
-    <SUITE FILE_PATH="coverage/MakeItRight$Make_It_Right.coverage" NAME="Make It Right Coverage Results" MODIFIED="1570205294984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MakeItRight$Make_It_Right.coverage" NAME="Make It Right Coverage Results" MODIFIED="1570386605880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
