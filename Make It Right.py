@@ -9,19 +9,19 @@ for file in os.listdir("."):
         fileName = base + '.txt'
 
         try:
-            with open(fileName, 'r', encoding="utf-8") as output2:
-                data2 = output2.read()
+            with open(fileName, 'r', encoding="utf-8") as output:
+                data = output.read()
 
             os.rename(fileName, base + ".srt")
 
-            if data2:
+            if data:
                 continue
 
         except:
-            with open(fileName, 'r', encoding="cp1256") as output:
-              data = output.read()
+            with open(fileName, 'r', encoding="cp1256") as output2:
+                data2 = output2.read()
 
-            with open(fileName, 'w', encoding="utf-8") as input:
-              input.write(data)
+            with open(fileName, 'w', encoding="utf-8") as input1:
+                input1.write(data)
 
             os.rename(fileName, base + ".srt")
