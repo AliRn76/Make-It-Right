@@ -22,6 +22,6 @@ for file in os.listdir("."):
                 data2 = output2.read()
 
             with open(fileName, 'w', encoding="utf-8") as input1:
-                input1.write(data)
+                input1.write(data2)
 
             os.rename(fileName, base + ".srt")
